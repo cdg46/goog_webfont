@@ -1,0 +1,7 @@
+plugin.bootstrap_package {
+	settings {
+		less{
+			icon-font-path = "../../../../../typo3conf/ext/goog_webfont/Resources/Public/Fonts/"
+		}
+	}
+}
